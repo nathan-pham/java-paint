@@ -9,7 +9,7 @@ public class Window extends JFrame {
     private WindowScreen windowScreen;
     private CustomMouseListener mouseListener;
 
-    public final int SIZE = 600;
+    public final int SIZE = 500;
 
     public Window() {
 
